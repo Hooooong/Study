@@ -17,7 +17,7 @@ Programing Study
 
     - 1일차
 
-        - [JAVA의 특징 및 변수 관련 공부](https://github.com/Hooooong/DAY1_HelloJava)
+        - [JAVA의 특징 & 변수 관련 공부](https://github.com/Hooooong/DAY1_HelloJava)
 
     - 2일차
 
@@ -26,7 +26,7 @@ Programing Study
 
     - 3일차
 
-        - [String 클래스]()
-        - [Math & Random 클래스]()
+        - [String 클래스](https://github.com/Hooooong/DAY3_StringClass)
+        - [Math & Random 클래스](https://github.com/Hooooong/DAY3_MathClass)
 
 2. ANDROID
