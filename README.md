@@ -17,16 +17,16 @@ Programing Study
 
     - 1일차
 
-        - JAVA의 특징 및 변수 관련 공부
+        - [JAVA의 특징 및 변수 관련 공부](https://github.com/Hooooong/DAY1_HelloJava)
 
     - 2일차
 
-        - S.O.L.I.D
-        - 객체지향 및 조건문&반복문
+        - [S.O.L.I.D]()
+        - [객체지향 및 조건문&반복문]()
 
     - 3일차
 
-        - String Class
-        - Math & Random Class
+        - [String 클래스]()
+        - [Math & Random 클래스]()
 
 2. ANDROID
