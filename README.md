@@ -21,8 +21,8 @@ Programing Study
 
     - 2일차
 
-        - [S.O.L.I.D]()
-        - [객체지향 및 조건문&반복문]()
+        - [S.O.L.I.D](https://github.com/Hooooong/DAY2_S.O.L.I.D)
+        - [객체지향 및 조건문&반복문](https://github.com/Hooooong/DAY2_Change)
 
     - 3일차
 
