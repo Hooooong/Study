@@ -22,11 +22,16 @@ Programing Study
     - 2일차
 
         - [S.O.L.I.D](https://github.com/Hooooong/DAY2_S.O.L.I.D)
-        - [객체지향 및 조건문&반복문](https://github.com/Hooooong/DAY2_Change)
+        - [객체지향 및 조건문&반복문, 인터페이스](https://github.com/Hooooong/DAY2_Change)
 
     - 3일차
 
         - [String 클래스](https://github.com/Hooooong/DAY3_StringClass)
         - [Math & Random 클래스](https://github.com/Hooooong/DAY3_MathClass)
+
+    - 4일차
+
+        - [디자인패턴 : MVC 패턴]()
+        - [Array & 제네릭(Generic) & Collection](https://github.com/Hooooong/DAY4_Collections)
 
 2. ANDROID
