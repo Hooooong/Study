@@ -34,4 +34,9 @@ Programing Study
         - 디자인패턴 : MVC 패턴 (준비중)
         - [Array & 제네릭(Generic) & Collection](https://github.com/Hooooong/DAY4_Collections)
 
+    - 5일차
+
+        - [SQL 기본 문법](https://github.com/Hooooong/DAY5_SQL)
+        - [예외(Exception), I/O, DB 관련 예제](https://github.com/Hooooong/DAY5_Memo)
+
 2. ANDROID
