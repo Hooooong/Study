@@ -31,7 +31,8 @@ Programing Study
 
     - 4일차
 
-        - 디자인패턴 : MVC 패턴 (준비중)
+        - [디자인패턴 : MVC 패턴](https://github.com/Hooooong/DAY4_MVC)
+        - 디자인패턴 : MVP 패턴 (준비중)
         - [Array & 제네릭(Generic) & Collection](https://github.com/Hooooong/DAY4_Collections)
 
     - 5일차
