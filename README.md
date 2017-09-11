@@ -43,5 +43,6 @@ Programing Study
     - 6일차
 
         - [Abstract & Interface](https://github.com/Hooooong/DAY6_Abstract-Interface)
-        - [제네릭 예제(ArrayList<T> 구현하기)]()
+        - [제네릭 예제 : ArrayList 구현](https://github.com/Hooooong/DAY6_GenericSample)
+        
 2. ANDROID
