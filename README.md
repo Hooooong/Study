@@ -13,7 +13,14 @@ Project
 
 Programing Study
 ----------------------------------------------------
-1. JAVA
+1. ANDROID
+
+    - 1일차
+
+        - [AndroidManifest.xml](https://github.com/Hooooong/DAY7_Manifest)
+        - [Android 기본 구조 및 ViewGroup(Layout)](https://github.com/Hooooong/DAY7_Android)
+
+2. JAVA
 
     - 1일차
 
@@ -44,10 +51,3 @@ Programing Study
 
         - [Abstract & Interface](https://github.com/Hooooong/DAY6_Abstract-Interface)
         - [제네릭 예제 : ArrayList 구현](https://github.com/Hooooong/DAY6_GenericSample)
-
-2. ANDROID
-
-    - 1일차
-
-        - AndroidManifest.xml (준비중)
-        - Android 기본 구조 및 ViewGroup(Layout) (준비중)
