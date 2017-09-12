@@ -50,4 +50,5 @@ Programing Study
     - 6일차
 
         - [Abstract & Interface](https://github.com/Hooooong/DAY6_Abstract-Interface)
+        - [Annotation](준비중)
         - [제네릭 예제 : ArrayList 구현](https://github.com/Hooooong/DAY6_GenericSample)
