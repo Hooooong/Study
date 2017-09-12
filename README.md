@@ -44,5 +44,10 @@ Programing Study
 
         - [Abstract & Interface](https://github.com/Hooooong/DAY6_Abstract-Interface)
         - [제네릭 예제 : ArrayList 구현](https://github.com/Hooooong/DAY6_GenericSample)
-        
+
 2. ANDROID
+
+    - 1일차
+
+        - AndroidManifest.xml (준비중)
+        - Android 기본 구조 및 ViewGroup(Layout) (준비중)
