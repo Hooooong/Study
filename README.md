@@ -6,7 +6,6 @@ Project
 
     - 자리콕(준비중)
 
-
 2. SCHOOL 프로젝트
 
     - []()
@@ -22,11 +21,11 @@ Programing Study
 
     - 2일차
 
-        - [ MVP 를 사용한 계산기 예제 ]()
+        - MVP 를 사용한 계산기 예제 (준비중)
 
     - 3일차
 
-        - [안드로이드 애니메이션](https://github.com/Hooooong/DAY9_Animation)
+        - [Android 애니메이션](https://github.com/Hooooong/DAY9_Animation)
 
 2. JAVA
 
