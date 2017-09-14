@@ -4,7 +4,7 @@ Project
 ----------------------------------------------------
 1. 개인 프로젝트
 
-    - [자리콕]()
+    - 자리콕(준비중)
 
 
 2. SCHOOL 프로젝트
@@ -19,6 +19,14 @@ Programing Study
 
         - [AndroidManifest.xml](https://github.com/Hooooong/DAY7_Manifest)
         - [Android 기본 구조 및 ViewGroup(Layout)](https://github.com/Hooooong/DAY7_Android)
+
+    - 2일차
+
+        - [ MVP 를 사용한 계산기 예제 ]()
+
+    - 3일차
+
+        - [안드로이드 애니메이션](https://github.com/Hooooong/DAY9_Animation)
 
 2. JAVA
 
