@@ -30,7 +30,7 @@ Programing Study
     - 4일차
 
         - [Android 동적 View 생성](https://github.com/Hooooong/DAY10_DynamicView)
-        - [Android Widget]()
+        - [Android Widget](https://github.com/Hooooong/DAY10_Widget)
 
 2. JAVA
 
