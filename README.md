@@ -21,7 +21,7 @@ Programing Study
 
     - 2일차
 
-        - MVP 를 사용한 계산기 예제 (준비중)
+        - MVP 패턴을 이용한 계산기 예제 (준비중)
 
     - 3일차
 
@@ -29,7 +29,7 @@ Programing Study
 
     - 4일차
 
-        - [Android 동적 View 생성]()
+        - [Android 동적 View 생성](https://github.com/Hooooong/DAY10_DynamicView)
         - [Android Widget]()
 
 2. JAVA
