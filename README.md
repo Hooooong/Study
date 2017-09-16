@@ -27,6 +27,11 @@ Programing Study
 
         - [Android 애니메이션](https://github.com/Hooooong/DAY9_Animation)
 
+    - 4일차
+
+        - [Android 동적 View 생성]()
+        - [Android Widget]()
+
 2. JAVA
 
     - 1일차
