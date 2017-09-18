@@ -21,7 +21,7 @@ Programing Study
 
     - 2일차
 
-        - MVP 패턴을 이용한 계산기 예제 (준비중)
+        - [MVP 패턴을 이용한 계산기 예제](https://github.com/Hooooong/DAY8_Calculator)
 
     - 3일차
 
