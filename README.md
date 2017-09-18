@@ -32,6 +32,11 @@ Programing Study
         - [Android 동적 View 생성](https://github.com/Hooooong/DAY10_DynamicView)
         - [Android Widget](https://github.com/Hooooong/DAY10_Widget)
 
+    - 5일차
+
+        - [CustomWidget, CustomView](https://github.com/Hooooong/DAY11_CustomView)
+        - [CustomView 로 만든 그림판]()
+
 2. JAVA
 
     - 1일차
