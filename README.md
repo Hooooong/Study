@@ -35,7 +35,6 @@ Programing Study
     - 5일차
 
         - [CustomWidget, CustomView](https://github.com/Hooooong/DAY11_CustomView)
-        - [CustomView 로 만든 그림판]()
 
 2. JAVA
 
