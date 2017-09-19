@@ -38,7 +38,7 @@ Programing Study
 
     - 6일차
 
-        - [ListView]()
+        - [ListView](https://github.com/Hooooong/DAY12_ListView)
         - ListView를 통한 메모장 만들기 (준비중)
 
 2. JAVA
