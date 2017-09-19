@@ -36,6 +36,11 @@ Programing Study
 
         - [CustomWidget, CustomView](https://github.com/Hooooong/DAY11_CustomView)
 
+    - 6일차
+
+        - [ListView]()
+        - ListView를 통한 메모장 만들기 (준비중)
+
 2. JAVA
 
     - 1일차
