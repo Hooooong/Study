@@ -39,7 +39,11 @@ Programing Study
     - 6일차
 
         - [ListView](https://github.com/Hooooong/DAY12_ListView)
-        - ListView를 통한 메모장 만들기 (준비중)
+
+    - 7일차
+
+        - [Activity 생명주기, Activity 결과 수신, Style.xml 작성](https://github.com/Hooooong/DAY13_Activity_etc)
+        - [메모장 만들기](https://github.com/Hooooong/DAY12_Memo)
 
 2. JAVA
 
