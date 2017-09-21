@@ -43,7 +43,15 @@ Programing Study
     - 7일차
 
         - [Activity 생명주기, Activity 결과 수신, Style.xml 작성](https://github.com/Hooooong/DAY13_Activity_etc)
-        - [메모장 만들기](https://github.com/Hooooong/DAY12_Memo)
+        - [File I/O 를 사용한 메모장 만들기](https://github.com/Hooooong/DAY12_Memo)
+
+    - 8일차
+
+        - [SQLite, Singleton Pattern](https://github.com/Hooooong/DAY14_SQLite-Singleton-Context.git)
+
+    - 9일차
+
+        - SQLite 를 사용한 메모장 만들기 (준비중)
 
 2. JAVA
 
