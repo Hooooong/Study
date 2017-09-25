@@ -48,10 +48,12 @@ Programing Study
     - 8일차
 
         - [SQLite, Singleton Pattern](https://github.com/Hooooong/DAY14_SQLite-Singleton-Context.git)
+        - [SQLite 를 사용한 메모장 만들기](https://github.com/Hooooong/DAY14_SQLiteMemo)
 
     - 9일차
 
-        - SQLite 를 사용한 메모장 만들기 (준비중)
+        - [ORM, RecyclerView](https://github.com/Hooooong/DAY15_ORM-RecyclerView)
+
 
 2. JAVA
 
