@@ -54,6 +54,10 @@ Programing Study
 
         - [ORM, RecyclerView](https://github.com/Hooooong/DAY15_ORM-RecyclerView)
 
+    - 10일차
+
+        - [Android Permission](https://github.com/Hooooong/DAY16_Android_Permission.git)
+
 
 2. JAVA
 
