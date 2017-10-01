@@ -62,6 +62,20 @@ Programing Study
 
         - [Intent, Content Provider&Resolver](https://github.com/Hooooong/DAY17_Contact)
 
+    - 12일차
+
+        - [Fragment](https://github.com/Hooooong/DAY18_Fragment)
+        - [ViewPager(Fragment)]()
+
+    - 13일차
+
+        - [ViewPager(View)]()
+        - [Thread]()
+
+    - 14일차
+
+        - [Tetirs]()
+
 2. JAVA
 
     - 1일차
@@ -81,7 +95,6 @@ Programing Study
     - 4일차
 
         - [디자인패턴 : MVC 패턴](https://github.com/Hooooong/DAY4_MVC)
-        - 디자인패턴 : MVP 패턴 (준비중)
         - [Array & 제네릭(Generic) & Collection](https://github.com/Hooooong/DAY4_Collections)
 
     - 5일차
