@@ -14,67 +14,63 @@ Programing Study
 ----------------------------------------------------
 1. ANDROID
 
-    - 1일차
+  - 1일차
 
-        - [AndroidManifest.xml](https://github.com/Hooooong/DAY7_Manifest)
-        - [Android 기본 구조 및 ViewGroup(Layout)](https://github.com/Hooooong/DAY7_Android)
+      - [AndroidManifest.xml](https://github.com/Hooooong/DAY7_Manifest)
+      - [Android 기본 구조 및 ViewGroup(Layout)](https://github.com/Hooooong/DAY7_Android)
 
-    - 2일차
+  - 2일차
 
-        - [MVP 패턴을 이용한 계산기 예제](https://github.com/Hooooong/DAY8_Calculator)
+      - [MVP 패턴을 이용한 계산기 예제](https://github.com/Hooooong/DAY8_Calculator)
 
-    - 3일차
+  - 3일차
 
-        - [Android 애니메이션](https://github.com/Hooooong/DAY9_Animation)
+      - [Android 애니메이션](https://github.com/Hooooong/DAY9_Animation)
 
-    - 4일차
+  - 4일차
 
-        - [Android 동적 View 생성](https://github.com/Hooooong/DAY10_DynamicView)
-        - [Android Widget](https://github.com/Hooooong/DAY10_Widget)
+      - [Android 동적 View 생성](https://github.com/Hooooong/DAY10_DynamicView)
+      - [Android Widget](https://github.com/Hooooong/DAY10_Widget)
 
-    - 5일차
+  - 5일차
 
-        - [CustomWidget, CustomView](https://github.com/Hooooong/DAY11_CustomView)
+      - [CustomWidget, CustomView](https://github.com/Hooooong/DAY11_CustomView)
 
-    - 6일차
+  - 6일차
 
-        - [ListView](https://github.com/Hooooong/DAY12_ListView)
+      - [ListView](https://github.com/Hooooong/DAY12_ListView)
 
-    - 7일차
+  - 7일차
 
-        - [Activity 생명주기, Activity 결과 수신, Style.xml 작성](https://github.com/Hooooong/DAY13_Activity_etc)
-        - [File I/O 를 사용한 메모장 만들기](https://github.com/Hooooong/DAY12_Memo)
+      - [Activity 생명주기, Activity 결과 수신, Style.xml 작성](https://github.com/Hooooong/DAY13_Activity_etc)
+      - [File I/O 를 사용한 메모장 만들기](https://github.com/Hooooong/DAY12_Memo)
 
-    - 8일차
+  - 8일차
 
-        - [SQLite, Singleton Pattern](https://github.com/Hooooong/DAY14_SQLite-Singleton-Context.git)
-        - [SQLite 를 사용한 메모장 만들기](https://github.com/Hooooong/DAY14_SQLiteMemo)
+      - [SQLite, Singleton Pattern](https://github.com/Hooooong/DAY14_SQLite-Singleton-Context.git)
+      - [SQLite 를 사용한 메모장 만들기](https://github.com/Hooooong/DAY14_SQLiteMemo)
 
-    - 9일차
+  - 9일차
 
-        - [ORM, RecyclerView](https://github.com/Hooooong/DAY15_ORM-RecyclerView)
+      - [ORM, RecyclerView](https://github.com/Hooooong/DAY15_ORM-RecyclerView)
 
-    - 10일차
+  - 10일차
 
-        - [Android Permission](https://github.com/Hooooong/DAY16_Android_Permission.git)
+      - [Android Permission](https://github.com/Hooooong/DAY16_Android_Permission.git)
 
-    - 11일차
+  - 11일차
 
-        - [Intent, Content Provider&Resolver](https://github.com/Hooooong/DAY17_Contact)
+      - [Intent, Content Provider&Resolver](https://github.com/Hooooong/DAY17_Contact)
 
-    - 12일차
+  - 12일차
 
-        - [Fragment](https://github.com/Hooooong/DAY18_Fragment)
-        - [ViewPager(Fragment)]()
+      - [Fragment](https://github.com/Hooooong/DAY18_Fragment)
+      - [ViewPager(Fragment)]()
 
-    - 13일차
+  - 13일차
 
-        - [ViewPager(View)]()
-        - [Thread]()
-
-    - 14일차
-
-        - [Tetirs]()
+      - [ViewPager(View)]()
+      - [Thread]()
 
 2. JAVA
 
