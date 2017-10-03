@@ -69,8 +69,8 @@ Programing Study
 
   - 13일차
 
-      - [ViewPager(View)]()
-      - [Thread]()
+      - [ViewPager(View)](https://github.com/Hooooong/DAY19_ViewPager-V-)
+      - [Thread](https://github.com/Hooooong/DAY19_Thread)
 
 2. JAVA
 
