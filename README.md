@@ -17,7 +17,7 @@ Programing Study
   - 1일차
 
       - [AndroidManifest.xml](https://github.com/Hooooong/DAY7_Manifest)
-      - [Android 기본 구조 및 ViewGroup(Layout)](https://github.com/Hooooong/DAY7_Android)
+      - [Android 개념, Android Layout](https://github.com/Hooooong/DAY7_Android)
 
   - 2일차
 
