@@ -76,6 +76,11 @@ Programing Study
 
         - [TransitionAnimation](https://github.com/Hooooong/DAY21_Transition_Animation)
 
+    - 15일차
+
+        - [RainDrop](https://github.com/Hooooong/DAY22_RainDrop)
+        - [Service](https://github.com/Hooooong/DAY22_Service)
+
 2. JAVA
 
     - 1일차
