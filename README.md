@@ -81,6 +81,14 @@ Programing Study
         - [RainDrop](https://github.com/Hooooong/DAY22_RainDrop)
         - [Service](https://github.com/Hooooong/DAY22_Service)
 
+    - 16~18일차
+
+        - MusicPlayer( 준비중 )
+
+    - 19일차
+
+        - [HTTPConnection](https://github.com/Hooooong/DAY25_HTTPConnect)
+        
 2. JAVA
 
     - 1일차
