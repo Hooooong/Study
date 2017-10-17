@@ -83,12 +83,12 @@ Programing Study
 
     - 16~18일차
 
-        - MusicPlayer( 준비중 )
+        - MusicPlayer(준비중)
 
     - 19일차
 
         - [HTTPConnection](https://github.com/Hooooong/DAY25_HTTPConnect)
-        
+
 2. JAVA
 
     - 1일차
