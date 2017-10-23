@@ -12,7 +12,13 @@ Project
 
 Programing Study
 ----------------------------------------------------
-1. ANDROID
+1. Node.js
+
+    - 1일차
+
+        - [JavaScript, Node.js 서버 생성](),
+
+2. ANDROID
 
     - 1일차
 
@@ -83,7 +89,7 @@ Programing Study
 
     - 16~18일차
 
-        - MusicPlayer(준비중)
+        - MusicPlayer (준비중)
 
     - 19일차
 
@@ -91,9 +97,19 @@ Programing Study
 
     - 20일차
 
+        - RESTful(준비중)
         - [Google Map( JSON Data 사용 )](https://github.com/Hooooong/DAY26_Bicycle)
 
-2. JAVA
+    - 21~22 일차
+
+        - [실시간 지하철 정보 제공 APP](https://github.com/Hooooong/DAY27_Subway)
+
+
+    - 23 일차
+
+        - [ButterKnife, AndroidAnnotation]()
+
+3. JAVA
 
     - 1일차
 
@@ -124,3 +140,8 @@ Programing Study
         - [Abstract & Interface](https://github.com/Hooooong/DAY6_Abstract-Interface)
         - Annotation (준비중)
         - [제네릭 예제 : ArrayList 구현](https://github.com/Hooooong/DAY6_GenericSample)
+
+    - ETC
+
+        - Thread (준비중)
+        - Chat Server, Web Server (준비중)
