@@ -107,7 +107,7 @@ Programing Study
 
     - 23 일차
 
-        - [ButterKnife, AndroidAnnotation]()
+        - [DI(의존성 주입) Library](https://github.com/Hooooong/DAY28_DependencyInjection.git)
 
 3. JAVA
 
