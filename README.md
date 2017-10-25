@@ -16,11 +16,11 @@ Programing Study
 
     - 1일차
 
-        - [JavaScript, Node.js 서버 생성](https://github.com/Hooooong/DAY28_JavaScript-Node.js.git)
+        - [JavaScript, Node.js, 서버 생성](https://github.com/Hooooong/DAY28_JavaScript-Node.js.git)
 
     - 2일차
 
-        - [Node.js File 관련](https://github.com/Hooooong/DAY29_Node.js)
+        - [File 관련 처리](https://github.com/Hooooong/DAY29_Node.js)
 
     - 3일차
 
