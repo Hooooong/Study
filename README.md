@@ -28,7 +28,12 @@ Programing Study
 
     - 4~5일차
 
-        - [Module 형식으로 게시판 만들기]
+        - [Module 형식으로 게시판 만들기 (Node.js) - README.md 준비중](https://github.com/Hooooong/DAY33_BBS-Server-.git)
+        - [Module 형식으로 게시판 만들기 (클라이언트) - README.md 준비중](https://github.com/Hooooong/DAY33_BBS-Android-)
+
+    - 5일차
+
+        - [File Upload, MySQL 연결](https://github.com/Hooooong/DAY34_Node.js)
 
 2. ANDROID
 
@@ -88,7 +93,7 @@ Programing Study
     - 13일차
 
         - [ViewPager(View)](https://github.com/Hooooong/DAY19_ViewPager-V-)
-        - [Thread](https://github.com/Hooooong/DAY19_Thread)
+        - [Thread(README.md 준비중)](https://github.com/Hooooong/DAY19_Thread)
 
     - 14일차
 
@@ -109,17 +114,19 @@ Programing Study
 
     - 20일차
 
-        - RESTful(준비중)
         - [Google Map( JSON Data 사용 )](https://github.com/Hooooong/DAY26_Bicycle)
 
-    - 21~22 일차
+    - 21~22일차
 
         - [실시간 지하철 정보 제공 APP](https://github.com/Hooooong/DAY27_Subway)
 
-
-    - 23 일차
+    - 23일차
 
         - [DI(의존성 주입) Library](https://github.com/Hooooong/DAY28_DependencyInjection.git)
+
+    - 24일차
+
+        - [Firebase Basic](https://github.com/Hooooong/DAY35_FirebaseBasic)
 
 3. JAVA
 
