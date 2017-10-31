@@ -93,7 +93,7 @@ Programing Study
     - 13일차
 
         - [ViewPager(View)](https://github.com/Hooooong/DAY19_ViewPager-V-)
-        - [Thread(README.md 준비중)](https://github.com/Hooooong/DAY19_Thread)
+        - [Thread - README.md 준비중](https://github.com/Hooooong/DAY19_Thread)
 
     - 14일차
 
@@ -118,7 +118,7 @@ Programing Study
 
     - 21~22일차
 
-        - [실시간 지하철 정보 제공 APP](https://github.com/Hooooong/DAY27_Subway)
+        - [실시간 지하철 정보 제공 APP - README.md 준비중](https://github.com/Hooooong/DAY27_Subway)
 
     - 23일차
 
@@ -126,7 +126,11 @@ Programing Study
 
     - 24일차
 
-        - [Firebase Basic](https://github.com/Hooooong/DAY35_FirebaseBasic)
+        - [Firebase Basic ( Realtime Database )](https://github.com/Hooooong/DAY35_FirebaseBasic)
+
+    - 25일차
+
+        - [Firebase Basic2 ( Authentication, Storage, FCM )](https://github.com/Hooooong/DAY36_FirebaseBasic2.git)
 
 3. JAVA
 
