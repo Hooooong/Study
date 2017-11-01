@@ -35,6 +35,10 @@ Programing Study
 
         - [File Upload, MySQL 연결](https://github.com/Hooooong/DAY34_Node.js)
 
+    - 6일차
+
+        - [FCM Server 설정](https://github.com/Hooooong/DAY37_FCM-Setting.git)
+
 2. ANDROID
 
     - 1일차
@@ -128,7 +132,7 @@ Programing Study
 
         - [Firebase Basic ( Realtime Database )](https://github.com/Hooooong/DAY35_FirebaseBasic)
 
-    - 25일차
+    - 25 ~ 26일차
 
         - [Firebase Basic2 ( Authentication, Storage, FCM )](https://github.com/Hooooong/DAY36_FirebaseBasic2.git)
 
