@@ -97,7 +97,7 @@ Programing Study
     - 13일차
 
         - [ViewPager(View)](https://github.com/Hooooong/DAY19_ViewPager-V-)
-        - [Thread - README.md 준비중](https://github.com/Hooooong/DAY19_Thread)
+        - [Thread](https://github.com/Hooooong/DAY19_Thread)
 
     - 14일차
 
@@ -170,5 +170,4 @@ Programing Study
 
     - ETC
 
-        - Thread (준비중)
         - Chat Server, Web Server (준비중)
