@@ -143,11 +143,8 @@ Programing Study
     - 27~30일차
 
         - [RxAndroid ( Lambda )](https://github.com/Hooooong/DAY39_RxJava)
-
         - [RxAndroid ( 기본개념 )](https://github.com/Hooooong/DAY40_RxJava2)
-
         - [RxAndroid ( Subject )](https://github.com/Hooooong/DAY40_RxJava3)
-
         - [RxAndroid ( RxBinding )](https://github.com/Hooooong/DAY41_RxJava4)
 
 3. JAVA
