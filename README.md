@@ -39,6 +39,10 @@ Programing Study
 
         - [FCM Server 설정](https://github.com/Hooooong/DAY37_FCM-Setting.git)
 
+    - 7일차
+
+        - [Express]()
+
 2. ANDROID
 
     - 1일차
@@ -135,6 +139,16 @@ Programing Study
     - 25 ~ 26일차
 
         - [Firebase Basic2 ( Authentication, Storage, FCM )](https://github.com/Hooooong/DAY36_FirebaseBasic2.git)
+
+    - 27~30일차
+
+        - [RxAndroid ( Lambda )](https://github.com/Hooooong/DAY39_RxJava)
+
+        - [RxAndroid ( 기본개념 )](https://github.com/Hooooong/DAY40_RxJava2)
+
+        - [RxAndroid ( Subject )](https://github.com/Hooooong/DAY40_RxJava3)
+
+        - [RxAndroid ( RxBinding )](https://github.com/Hooooong/DAY41_RxJava4)
 
 3. JAVA
 
