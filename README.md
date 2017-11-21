@@ -28,7 +28,7 @@ Programing Study
 
     - 4~5일차
 
-        - [Module 형식으로 게시판 만들기 (Node.js) - README.md 준비중](https://github.com/Hooooong/DAY33_BBS-Server-.git)
+        - [Module 형식으로 게시판 만들기 (Node.js)](https://github.com/Hooooong/DAY33_BBS-Server-.git)
         - [Module 형식으로 게시판 만들기 (클라이언트) - README.md 준비중](https://github.com/Hooooong/DAY33_BBS-Android-)
 
     - 5일차
