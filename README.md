@@ -43,6 +43,10 @@
 
       - [Express](https://github.com/Hooooong/DAY42_Express)
 
+    - 8일차
+
+      - [SampleApp(Node.js) - README.md 준비중](https://github.com/Hooooong/DAY43_SampleApp-Node.js-)
+
 2. ANDROID
 
     - 1일차
@@ -146,6 +150,16 @@
       - [RxAndroid ( 기본개념 )](https://github.com/Hooooong/DAY40_RxJava2)
       - [RxAndroid ( Subject )](https://github.com/Hooooong/DAY40_RxJava3)
       - [RxAndroid ( RxBinding )](https://github.com/Hooooong/DAY41_RxJava4)
+
+    - 31 ~ 33 일차
+
+      - [SampelApp(Android) - README.md 준비중](https://github.com/Hooooong/DAY43_SampleApp-Android-)
+
+    - 34 일차
+
+      - [디자인패턴 : MVP 패턴 - README.md 준비중](https://github.com/Hooooong/DAY44_MVP)
+      - [DataBinding](https://github.com/Hooooong/DAY44_DataBinding)
+      - [Broadcast](https://github.com/Hooooong/DAY44_Broadcast)
 
 3. JAVA
 
