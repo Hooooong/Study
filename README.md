@@ -10,7 +10,7 @@
 
     - [Firebase Project(Pholar)](https://github.com/Hooooong/Pholar)
 
-    - Explog( 준비중 )
+    - [Explog](https://github.com/Hooooong/Explog)
 
 ## Programing Study
 
