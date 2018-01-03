@@ -6,7 +6,7 @@
 
     - 자리콕 (준비중)
 
-2. SCHOOL 프로젝트
+2. 학원 프로젝트
 
     - [Firebase Project(Pholar)](https://github.com/Hooooong/Pholar)
 
