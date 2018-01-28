@@ -163,6 +163,13 @@
       - [DataBinding](https://github.com/Hooooong/DAY44_DataBinding)
       - [Broadcast](https://github.com/Hooooong/DAY44_Broadcast)
 
+    - Rx 관련 공부
+
+      - [RxBus]
+      -
+
+    - JUnit Test
+
 3. JAVA
 
     - 1일차
