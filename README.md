@@ -10,46 +10,13 @@
 
     - [Firebase Project(Pholar)](https://github.com/Hooooong/Pholar)
 
-    - [Explog](https://github.com/Hooooong/Explog)
+    - [Explog](https://github.com/Hooooong/_Explog)
 
 ## Programing Study
 
-1. Node.js
+### 언어
 
-    - 1일차
-
-      - [JavaScript, Node.js, 서버 생성](https://github.com/Hooooong/DAY28_JavaScript-Node.js.git)
-
-    - 2일차
-
-      - [File 관련 처리](https://github.com/Hooooong/DAY29_Node.js)
-
-    - 3일차
-
-      - [MongoDB, MongoDB 연결, Body 처리](https://github.com/Hooooong/DAY30_Nodejs-POST-DB-)
-
-    - 4~5일차
-
-      - [Module 형식으로 게시판 만들기 (Node.js)](https://github.com/Hooooong/DAY33_BBS-Server-.git)
-      - [Module 형식으로 게시판 만들기 (클라이언트)](https://github.com/Hooooong/DAY33_BBS-Android-)
-
-    - 5일차
-
-      - [File Upload, MySQL 연결](https://github.com/Hooooong/DAY34_Node.js)
-
-    - 6일차
-
-      - [FCM Server 설정](https://github.com/Hooooong/DAY37_FCM-Setting.git)
-
-    - 7일차
-
-      - [Express](https://github.com/Hooooong/DAY42_Express)
-
-    - 8일차
-
-      - [SampleApp(Node.js) - README.md 준비중](https://github.com/Hooooong/DAY43_SampleApp-Node.js-)
-
-2. ANDROID
+- ANDROID
 
     - 1일차
 
@@ -163,14 +130,7 @@
       - [DataBinding](https://github.com/Hooooong/DAY44_DataBinding)
       - [Broadcast](https://github.com/Hooooong/DAY44_Broadcast)
 
-    - Rx 관련 공부
-
-      - [RxBus]
-      -
-
-    - JUnit Test
-
-3. JAVA
+- JAVA
 
     - 1일차
 
@@ -205,3 +165,40 @@
     - ETC
 
       - Chat Server, Web Server (준비중)
+
+### 서버
+
+- Node.js
+
+    - 1일차
+
+      - [JavaScript, Node.js, 서버 생성](https://github.com/Hooooong/DAY28_JavaScript-Node.js.git)
+
+    - 2일차
+
+      - [File 관련 처리](https://github.com/Hooooong/DAY29_Node.js)
+
+    - 3일차
+
+      - [MongoDB, MongoDB 연결, Body 처리](https://github.com/Hooooong/DAY30_Nodejs-POST-DB-)
+
+    - 4~5일차
+
+      - [Module 형식으로 게시판 만들기 (Node.js)](https://github.com/Hooooong/DAY33_BBS-Server-.git)
+      - [Module 형식으로 게시판 만들기 (클라이언트)](https://github.com/Hooooong/DAY33_BBS-Android-)
+
+    - 5일차
+
+      - [File Upload, MySQL 연결](https://github.com/Hooooong/DAY34_Node.js)
+
+    - 6일차
+
+      - [FCM Server 설정](https://github.com/Hooooong/DAY37_FCM-Setting.git)
+
+    - 7일차
+
+      - [Express](https://github.com/Hooooong/DAY42_Express)
+
+    - 8일차
+
+      - [SampleApp(Node.js) - README.md 준비중](https://github.com/Hooooong/DAY43_SampleApp-Node.js-)
