@@ -4,7 +4,7 @@
 
 1. 개인 프로젝트
 
-    - 자리콕(준비중)
+    - [SeatCook(자리콕)](https://github.com/Hooooong/SeatCock)
 
 2. 학원 프로젝트
 
@@ -122,7 +122,7 @@
 
     - 31 ~ 33 일차
 
-      - [SampelApp(Android) - README.md 준비중](https://github.com/Hooooong/DAY43_SampleApp-Android-)
+      - [SampleApp(Android) - README.md 준비중](https://github.com/Hooooong/DAY43_SampleApp-Android-)
 
     - 34 일차
 
