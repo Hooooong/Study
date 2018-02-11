@@ -8,7 +8,7 @@
 
 2. 학원 프로젝트
 
-    - [Firebase Project(Pholar)](https://github.com/Hooooong/Pholar)
+    - [PHOLAR Lite.(Firebase Project)](https://github.com/Hooooong/Pholar)
 
     - [Explog](https://github.com/Hooooong/_Explog)
 
